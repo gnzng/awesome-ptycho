@@ -10,11 +10,11 @@ A curated list of ptychography reconstruction software from around the world.
 |------|-------------------|----------|-------------|-----------|-----|
 | [4D-STEM](https://github.com/py4dstem/py4DSTEM) | NCEM/LBNL | Python | ✅ CUDA | mPIE |  ✅ |
 | [cdtools](https://github.com/cdtools-developers/cdtools) | MIT | Python | ✅ CUDA through torch | ADAM, SGD, LBFGS | ❌ |
-| [PtychoShelves](https://www.psi.ch/en/sls/csaxs/software) | PSI | Matlab | ✅  | PIE, DM, ML |  ❌ |
-| [PtyLab](https://github.com/PtyLab) | - | Python, Julia, Matlab | ✅ | ePIE, mPIE, pcPIE, e3PIE, lsqPIE, aPIE, sPIE, zPIE, pSD, mqNewton | ❌ |
+| [PtychoShelves](https://www.psi.ch/en/sls/csaxs/software) | PSI | MATLAB | ✅  | PIE, DM, ML |  ❌ |
+| [PtyLab](https://github.com/PtyLab) | - | Python, Julia, MATLAB | ✅ | ePIE, mPIE, pcPIE, e3PIE, lsqPIE, aPIE, sPIE, zPIE, pSD, mqNewton | ❌ |
 | [PtyPy](https://github.com/ptycho/ptypy) | Diamond Light Source | Python |  ✅ CUDA | PIE, DM, RAAR, SDR |  ❌ |
 | [Pty-chi](https://github.com/AdvancedPhotonSource/pty-chi) | UChicago Argonne | Python | ✅ CUDA through torch | ADADELTA, ADAGRAD, ADAM, ADAMAX, ADAMW, ASGD, LBFGS, RADAM, RMSPROP, SGD, SPARSE_ADAM, BH, DM, ePIE, LSQML, PIE, rPIE | ❌ |
-| [PyNX](https://pynx.esrf.fr/en/latest/) | ESRF | Python/OpenCL |  ✅ CUDA&OpenCL | PIE, DM, AP | ❌ |
+| [PyNX](https://pynx.esrf.fr/en/latest/) | ESRF | Python/OpenCL |  ✅ CUDA & OpenCL | PIE, DM, AP | ❌ |
 | [ssc-cdi](https://zenodo.org/records/15427455) | Sirius | C++, Python | ✅ CUDA | rPIE, mPIE, AP, RAAR, ML | ❌ |
 
 ## 🔤 Column Descriptions
