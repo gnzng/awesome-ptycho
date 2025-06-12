@@ -48,7 +48,7 @@ A curated list of ptychography reconstruction software from around the world.
 - **mPIE**: Mixed PIE
 - **mqNewton**: Modified quasi-Newton
 - **pcPIE**: Position-corrected PIE
-- **PIE**: Ptychographic Iterative Engine link
+- **PIE**: Ptychographic Iterative Engine [link](https://www.sciencedirect.com/science/article/pii/S0304399109001284)
 - **pSD**: projected Steepest Descent
 - **RAAR**: Relaxed Averaged Alternating Reflections
 - **RADAM**: Rectified ADAM
