@@ -6,16 +6,16 @@ A curated list of ptychography reconstruction software from around the world.
 
 ## 📊 Software Comparison
 
-| Name | Author/Organization | Language | GPU Support | Algorithms | GUI | Repository |
-|------|-------------------|----------|-------------|-----------|-----|--------------|
-| 4D-STEM | NCEM/LBNL | Python | ✅ CUDA | mPIE |  ✅ | [GitHub](https://github.com/py4dstem/py4DSTEM) |
-| cdtools | MIT | Python | ✅ CUDA through torch | ADAM, SGD, LBFGS | ❌ | [GitHub](https://github.com/cdtools-developers/cdtools) |
-| PtychoShelves | PSI | Matlab | ✅  | PIE, DM, ML |  ❌ | [PSI website](https://www.psi.ch/en/sls/csaxs/software) | 
-| PtyLab | - | Python, Julia, Matlab | ✅ | ePIE, mPIE, pcPIE, e3PIE, lsqPIE, aPIE, sPIE, zPIE, pSD, mqNewton | ❌ | [GitHub](https://github.com/PtyLab) | 
-| PtyPy | Diamond Light Source | Python |  ✅ CUDA | PIE, DM, RAAR, SDR |  ❌ | [GitHub](https://github.com/ptycho/ptypy) | 
-| Pty-chi | UChicago Argonne | Python | ✅ CUDA through torch | ADADELTA, ADAGRAD, ADAM, ADAMAX, ADAMW, ASGD, LBFGS, RADAM, RMSPROP, SGD, SPARSE_ADAM, BH, DM, ePIE, LSQML, PIE, rPIE | ❌ | [GitHub](https://github.com/AdvancedPhotonSource/pty-chi) | 
-| PyNX | ESRF | Python/OpenCL |  ✅ CUDA&OpenCL | PIE, DM, AP | ❌ | [ESRF](https://pynx.esrf.fr/en/latest/) | 
-| ssc-cdi | Sirius | C++, Python | ✅ CUDA | rPIE, mPIE, AP, RAAR, ML | ❌ | [zenodo](https://zenodo.org/records/15427455) | 
+| Name | Author/Organization | Language | GPU Support | Algorithms | GUI |
+|------|-------------------|----------|-------------|-----------|-----|
+| [4D-STEM](https://github.com/py4dstem/py4DSTEM) | NCEM/LBNL | Python | ✅ CUDA | mPIE |  ✅ |
+| [cdtools](https://github.com/cdtools-developers/cdtools) | MIT | Python | ✅ CUDA through torch | ADAM, SGD, LBFGS | ❌ |
+| [PtychoShelves](https://www.psi.ch/en/sls/csaxs/software) | PSI | Matlab | ✅  | PIE, DM, ML |  ❌ |
+| [PtyLab](https://github.com/PtyLab) | - | Python, Julia, Matlab | ✅ | ePIE, mPIE, pcPIE, e3PIE, lsqPIE, aPIE, sPIE, zPIE, pSD, mqNewton | ❌ |
+| [PtyPy](https://github.com/ptycho/ptypy) | Diamond Light Source | Python |  ✅ CUDA | PIE, DM, RAAR, SDR |  ❌ |
+| [Pty-chi](https://github.com/AdvancedPhotonSource/pty-chi) | UChicago Argonne | Python | ✅ CUDA through torch | ADADELTA, ADAGRAD, ADAM, ADAMAX, ADAMW, ASGD, LBFGS, RADAM, RMSPROP, SGD, SPARSE_ADAM, BH, DM, ePIE, LSQML, PIE, rPIE | ❌ |
+| [PyNX](https://pynx.esrf.fr/en/latest/) | ESRF | Python/OpenCL |  ✅ CUDA&OpenCL | PIE, DM, AP | ❌ |
+| [ssc-cdi](https://zenodo.org/records/15427455) | Sirius | C++, Python | ✅ CUDA | rPIE, mPIE, AP, RAAR, ML | ❌ |
 
 ## 🔤 Column Descriptions
 
