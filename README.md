@@ -29,37 +29,43 @@ A curated list of ptychography reconstruction software from around the world.
 
 ## 🧮 Algorithm Abbreviations
 
+### Classical Ptychography Algorithms
+- **AP**: Alternating Projections [link](https://www.sciencedirect.com/science/article/pii/S1063520315000913)
+- **DM**: Difference Map [link](https://www.science.org/doi/10.1126/science.1158573)
+- **ML**: Maximum Likelihood [link](https://iopscience.iop.org/article/10.1088/1367-2630/14/6/063004)
+- **LSQML**: Least-squares Maximum Likelihood [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-3-3108&id=381198)
+- **RAAR**: Relaxed Averaged Alternating Reflections [link](https://arxiv.org/abs/math/0405208)
+- **SDR**: Semi-implicit relaxed Douglas-Rachford algorithm [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31246&id=422295)
+
+### PIE (Ptychographic Iterative Engine) Variants
+- **PIE**: Ptychographic Iterative Engine [link](https://www.sciencedirect.com/science/article/pii/S0304399109001284)
+- **aPIE**: angle calibration PIE [link](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-8-1949&id=471191)
+- **e3PIE**: Extended PIE with 3 (probe) modes
+- **ePIE**: Extended PIE [link](https://www.sciencedirect.com/science/article/pii/S0304399109001284)
+- **lsqPIE**: Least-squares PIE
+- **mPIE**: Mixed PIE [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-25-30851&id=377327)
+- **pcPIE**: Position-corrected PIE [link](https://www.sciencedirect.com/science/article/abs/pii/S0304399112001222)
+- **rPIE**: Regularized PIE [link](https://opg.optica.org/optica/fulltext.cfm?uri=optica-4-7-736)
+- **sPIE**: Smoothed PIE 
+- **zPIE**: autofocusing PIE [link](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-7-2030&id=429515)
+
+### Specialized Ptychography Optimizers
+- **BH**: Bilinear Hessian [link](https://arxiv.org/abs/2502.10755)
+- **mqNewton**: Modified quasi-Newton
+- **pSD**: projected Steepest Descent
+
+### General Optimization Algorithms
 - **ADADELTA**: Adaptive Delta optimizer
 - **ADAGRAD**: Adaptive Gradient optimizer
 - **ADAM**: Adaptive Moment Estimation optimizer
 - **ADAMAX**: ADAM with infinity norm
 - **ADAMW**: ADAM with Weight decay
-- **AP**: Alternating Projections [link](https://www.sciencedirect.com/science/article/pii/S1063520315000913)
-- **aPIE**: angle calibration PIE [link](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-8-1949&id=471191)
 - **ASGD**: Averaged Stochastic Gradient Descent
-- **BH**: Bilinear Hessian [link](https://arxiv.org/abs/2502.10755)
-- **DM**: Difference Map [link](https://www.science.org/doi/10.1126/science.1158573)
-- **e3PIE**: Extended PIE with 3 (probe) modes
-- **ePIE**: Extended PIE [link](https://www.sciencedirect.com/science/article/pii/S0304399109001284)
 - **LBFGS**: Limited-memory Broyden-Fletcher-Goldfarb-Shanno optimizer
-- **lsqPIE**: Least-squares PIE
-- **LSQML**: Least-squares Maximum Likelihood [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-3-3108&id=381198)
-- **ML**: Maximum Likelihood [link](https://iopscience.iop.org/article/10.1088/1367-2630/14/6/063004)
-- **mPIE**: Mixed PIE [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-25-30851&id=377327)
-- **mqNewton**: Modified quasi-Newton
-- **pcPIE**: Position-corrected PIE [link](https://www.sciencedirect.com/science/article/abs/pii/S0304399112001222)
-- **PIE**: Ptychographic Iterative Engine [link](https://www.sciencedirect.com/science/article/pii/S0304399109001284)
-- **pSD**: projected Steepest Descent
-- **RAAR**: Relaxed Averaged Alternating Reflections [link](https://arxiv.org/abs/math/0405208)
 - **RADAM**: Rectified ADAM
 - **RMSPROP**: Root Mean Square Propagation
-- **rPIE**: Regularized PIE [link](https://opg.optica.org/optica/fulltext.cfm?uri=optica-4-7-736)
-- **SDR**: Semi-implicit relaxed Douglas-Rachford algorithm [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31246&id=422295)
 - **SGD**: Stochastic Gradient Descent
 - **SPARSE_ADAM**: Sparse ADAM optimizer
-- **sPIE**: Smoothed PIE 
-- **zPIE**: autofocusing PIE [link](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-7-2030&id=429515)
-
 
 ## 📚 Datasets and Resources
 
