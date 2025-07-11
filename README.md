@@ -5,6 +5,7 @@ A curated list of ptychography reconstruction software from around the world.
 🚧 Under construction: Please feel free to contribute. 
 
 ## 📊 Software Comparison
+The list includes only relatively recently updated open-source modules and packages. 
 
 | Name | Author/Organization | Language | GPU Support | Algorithms | GUI |
 |------|-------------------|----------|-------------|-----------|-----|
@@ -73,16 +74,14 @@ A curated list of ptychography reconstruction software from around the world.
 - [CXIDB](http://cxidb.org/) - Coherent X-ray Imaging Data Bank
 
 ### 📖 Learning Resources
-
+- Rodenburg, J.M. orcid.org/0000-0002-1059-8179 and Maiden, A.M. (2019) Ptychography. In: Hawkes, P.W. and Spence, J.C.H., (eds.) Springer Handbook of Microscopy. Springer Handbooks . Springer . ISBN 9783030000684 [link to online version](https://eprints.whiterose.ac.uk/id/eprint/127795/1/Ptychography_Chapter-Rodenburg%2BMaiden_final.pdf)
+- Guoan Zheng, A MATLAB tutorial, Fourier Ptychographic Imaging [link to online version](https://iopscience.iop.org/book/mono/978-1-6817-4273-1.pdf)
 
 ## 🤝 Contributing
 
-To add or update software information 📤 Submit a pull request
+To add or update software information please submit a PR.
 
 ## 🏷️ Tags
 
 `ptychography` `coherent-diffraction-imaging` `computational-imaging` `x-ray-imaging` `electron-microscopy` `phase-retrieval` `scientific-computing`
 
-
-
-*⭐ Star this repository to keep track of updates!*
