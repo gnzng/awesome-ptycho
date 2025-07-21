@@ -14,6 +14,7 @@ The list includes only relatively recently updated open-source modules and packa
 | [PtychoShelves](https://www.psi.ch/en/sls/csaxs/software) | PSI | MATLAB | ✅  | PIE, DM, ML |  ❌ |
 | [PtyLab](https://github.com/PtyLab) | - | Python, Julia, MATLAB | ✅ | ePIE, mPIE, pcPIE, e3PIE, lsqPIE, aPIE, sPIE, zPIE, pSD, mqNewton | ❌ |
 | [PtyPy](https://github.com/ptycho/ptypy) | Diamond Light Source | Python |  ✅ CUDA | PIE, DM, RAAR, SDR |  ❌ |
+| [PtyRAD](https://github.com/chiahao3/ptyrad) | Cornell University | Python |  ✅ CUDA through torch | [all torch optimizers](https://docs.pytorch.org/docs/main/optim.html) |  ❌ |
 | [Pty-chi](https://github.com/AdvancedPhotonSource/pty-chi) | UChicago Argonne | Python | ✅ CUDA through torch | ADADELTA, ADAGRAD, ADAM, ADAMAX, ADAMW, ASGD, LBFGS, RADAM, RMSPROP, SGD, SPARSE_ADAM, BH, DM, ePIE, LSQML, PIE, rPIE | ❌ |
 | [PyNX](https://pynx.esrf.fr/en/latest/) | ESRF | Python/OpenCL |  ✅ CUDA & OpenCL | PIE, DM, AP | ❌ |
 | [ssc-cdi](https://zenodo.org/records/15427455) | Sirius | C++, Python | ✅ CUDA | rPIE, mPIE, AP, RAAR, ML | ❌ |
@@ -76,6 +77,7 @@ The list includes only relatively recently updated open-source modules and packa
 ### 📖 Learning Resources
 - Rodenburg, J.M. orcid.org/0000-0002-1059-8179 and Maiden, A.M. (2019) Ptychography. In: Hawkes, P.W. and Spence, J.C.H., (eds.) Springer Handbook of Microscopy. Springer Handbooks . Springer . ISBN 9783030000684 [link to online version](https://eprints.whiterose.ac.uk/id/eprint/127795/1/Ptychography_Chapter-Rodenburg%2BMaiden_final.pdf)
 - Guoan Zheng, A MATLAB tutorial, Fourier Ptychographic Imaging [link to online version](https://iopscience.iop.org/book/mono/978-1-6817-4273-1.pdf)
+- Chiao-Hao Lee, Introduction of PtyRAD, [link to video/series](https://www.youtube.com/watch?v=XQ6wsMe9DZ0)
 
 ## 🤝 Contributing
 
