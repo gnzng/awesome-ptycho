@@ -18,6 +18,7 @@ The list includes only relatively recently updated open-source modules and packa
 | [Pty-chi](https://github.com/AdvancedPhotonSource/pty-chi) | UChicago Argonne | Python | ✅ CUDA through torch | ADADELTA, ADAGRAD, ADAM, ADAMAX, ADAMW, ASGD, LBFGS, RADAM, RMSPROP, SGD, SPARSE_ADAM, BH, DM, ePIE, LSQML, PIE, rPIE | ❌ |
 | [PyNX](https://pynx.esrf.fr/en/latest/) | ESRF | Python/OpenCL |  ✅ CUDA & OpenCL | PIE, DM, AP | ❌ |
 | [ssc-cdi](https://zenodo.org/records/15427455) | Sirius | C++, Python | ✅ CUDA | rPIE, mPIE, AP, RAAR, ML | ❌ |
+| [quantem](https://github.com/electronmicroscopy/quantem) | Stanford | Python | ✅ CUDA through torch | N/A | ❔ |
 
 ## 🔤 Column Descriptions
 
