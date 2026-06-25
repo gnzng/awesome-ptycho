@@ -11,6 +11,8 @@ The list includes only relatively recently updated open-source modules and packa
 |------|-------------------|----------|-------------|-----------|-----|
 | [4D-STEM](https://github.com/py4dstem/py4DSTEM) | NCEM/LBNL | Python | ✅ CUDA | mPIE |  ✅ |
 | [cdtools](https://github.com/cdtools-developers/cdtools) | MIT/PSI | Python | ✅ CUDA through torch | ADAM, SGD, LBFGS | ❌ |
+| [PtychoNN](https://github.com/mcherukara/PtychoNN) | Argonne | Python | ✅ CUDA through TensorFlow/PyTorch | CNN | ❌ |
+| [PtychoPINN](https://github.com/hoidn/PtychoPINN) | SLAC | Python | ✅ CUDA through TensorFlow/PyTorch | PINN | ❌ |
 | [PtychoShelves](https://www.psi.ch/en/sls/csaxs/software) | PSI | MATLAB | ✅  | PIE, DM, ML |  ❌ |
 | [PtyLab](https://github.com/PtyLab) | - | Python, Julia, MATLAB | ✅ | ePIE, mPIE, pcPIE, e3PIE, lsqPIE, aPIE, sPIE, zPIE, pSD, mqNewton | ❌ |
 | [PtyPy](https://github.com/ptycho/ptypy) | Diamond Light Source | Python |  ✅ CUDA | PIE, DM, RAAR, SDR |  ❌ |
@@ -56,6 +58,10 @@ The list includes only relatively recently updated open-source modules and packa
 - **BH**: Bilinear Hessian [link](https://arxiv.org/abs/2502.10755)
 - **mqNewton**: Modified quasi-Newton
 - **pSD**: projected Steepest Descent
+
+### Deep Learning Approaches
+- **CNN**: Convolutional Neural Network (encoder-decoder predicting amplitude and phase from diffraction data) [link](https://aip.scitation.org/doi/10.1063/5.0013065)
+- **PINN**: Physics-Informed Neural Network (physics-constrained unsupervised deep learning) [link](https://arxiv.org/abs/2306.11014)
 
 ### General Optimization Algorithms
 - **ADADELTA**: Adaptive Delta optimizer
