@@ -1,3 +1,5 @@
+
+
 # Awesome Ptychography 🔬✨
 
 A curated list of ptychography reconstruction software from around the world. 
@@ -30,7 +32,6 @@ The list includes only relatively recently updated open-source modules and packa
 - **GPU Support**: GPU acceleration framework (CUDA, OpenCL, etc.)
 - **Algorithms**: Supported reconstruction algorithms
 - **GUI**: Has graphical user interface
-- **Repository**: Link to source code repository
 
 ## 🧮 Algorithm Abbreviations
 
@@ -93,4 +94,3 @@ To add or update software information please submit a PR.
 ## 🏷️ Tags
 
 `ptychography` `coherent-diffraction-imaging` `computational-imaging` `x-ray-imaging` `electron-microscopy` `phase-retrieval` `scientific-computing`
-
